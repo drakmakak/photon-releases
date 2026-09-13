@@ -11,7 +11,7 @@
 ![access](https://img.shields.io/badge/access-invite--only-black?style=flat-square)
 ![status](https://img.shields.io/badge/Windows-in%20development-666666?style=flat-square)
 
-**[Запросить доступ](#)** — прямой ссылки в App Store пока нет, вход по запросу.
+Доступ к системе предоставляется только зарегистрированным пользователям.
 
 </div>
 
@@ -142,8 +142,8 @@
 
 Попробуйте Photon бесплатно и убедитесь, что защищённый мессенджер может быть таким же простым, как любой другой.
 
-**[Запросить доступ](#)**
+Доступ к системе выполняется только через зарегистрированного пользователя.
 
-*Прямой ссылки в App Store пока нет — доступ по запросу · iOS и macOS доступны сейчас · Android в разработке (self-hosted APK) · Windows — на подходе*
+*Прямой ссылки в App Store пока нет · iOS и macOS доступны сейчас · Android в разработке (self-hosted APK) · Windows — на подходе*
 
 </div>
