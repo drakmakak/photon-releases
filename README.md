@@ -11,7 +11,7 @@
 ![access](https://img.shields.io/badge/access-invite--only-black?style=flat-square)
 ![status](https://img.shields.io/badge/Windows-in%20development-666666?style=flat-square)
 
-Доступ к системе предоставляется только зарегистрированным пользователям.
+Доступ к системе предоставляется только через зарегистрированных пользователей.
 
 </div>
 
